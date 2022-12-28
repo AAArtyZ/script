@@ -1,5 +1,5 @@
 while true do
-    wait(0.02)
+    wait(0.00001)
        local args = {
             [1] = "collectOrb",
             [2] = "Blue Orb",
